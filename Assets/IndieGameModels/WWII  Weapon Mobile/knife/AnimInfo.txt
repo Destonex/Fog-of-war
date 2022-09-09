@@ -1,0 +1,7 @@
+Frame rate: PAL 25
+------------------
+
+idle:      0 to 49
+walk:     50 to 79
+attack:   81 to 100
+

@@ -1,0 +1,6 @@
+Frame rate: PAL 25
+------------------
+
+idle:      0 to 49
+walk:     50 to 79
+throw:    81 to 125
