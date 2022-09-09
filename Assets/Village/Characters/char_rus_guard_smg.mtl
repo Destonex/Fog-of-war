@@ -1,0 +1,158 @@
+# Blender MTL File: 'None'
+# Material Count: 13
+
+newmtl Material.002
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd char_rus_gear1_mp_c.png
+map_d char_rus_gear1_mp_c.png
+
+newmtl char_rus_gear1_mp_c.043
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd char_rus_gear1_mp_c.png
+map_d char_rus_gear1_mp_c.png
+
+newmtl char_rus_gear1_mp_c.044
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd char_rus_gear1_mp_c.png
+map_d char_rus_gear1_mp_c.png
+
+newmtl char_rus_gear1_mp_c.045
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd char_rus_gear1_mp_c.png
+map_d char_rus_gear1_mp_c.png
+
+newmtl char_rus_gear2_mp_c.018
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd char_rus_gear2_mp_c.png
+map_d char_rus_gear2_mp_c.png
+
+newmtl char_rus_gear2_mp_c.019
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd char_rus_gear2_mp_c.png
+map_d char_rus_gear2_mp_c.png
+
+newmtl char_rus_redshirtbody1_mp_c.025
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd char_rus_redshirtbody1_mp_c.png
+map_d char_rus_redshirtbody1_mp_c.png
+
+newmtl char_rus_redshirtbody1_mp_c.026
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd char_rus_redshirtbody1_mp_c.png
+map_d char_rus_redshirtbody1_mp_c.png
+
+newmtl char_rus_redshirtbody1_mp_c.027
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd char_rus_redshirtbody1_mp_c.png
+map_d char_rus_redshirtbody1_mp_c.png
+
+newmtl char_rus_redshirtbody1_mp_c.028
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd char_rus_redshirtbody1_mp_c.png
+map_d char_rus_redshirtbody1_mp_c.png
+
+newmtl char_rus_redshirthead1_mp_c.016
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd char_rus_redshirthead3_mp_c.png
+map_d char_rus_redshirthead1_mp_c.png
+
+newmtl char_rus_redshirthead1_mp_c.017
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd char_rus_redshirthead3_mp_c.png
+map_d char_rus_redshirthead1_mp_c.png
+
+newmtl char_rus_redshirthead1_mp_c.018
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd char_rus_redshirthead1_mp_c.png
+map_d char_rus_redshirthead1_mp_c.png

@@ -1,0 +1,8 @@
+C:\MODELI\Telega\t$m$p$$$\Telega.max
+C:\MODELI\Telega\t$m$p$$$\MAXFILES.TXT
+D:\MYMateral\Wood\4.jpg
+D:\MYMateral\CRACK\DecalsStains0008_1_S.png
+D:\MATERIAL_Textures\Vraymat\My Mat\Wood\брус\634Ш_nrm.png
+D:\MATERIAL_Textures\Vraymat\My Mat\Wood\брус\634Ш_occ.png
+D:\MATERIAL_Textures\Vraymat\My Mat\Wood\брус\634Ш_spec.png
+D:\MYMateral\Metall\001.jpg
