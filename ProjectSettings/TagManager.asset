@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Dirt
+  - Wood
+  - Metal
+  - Concrete
+  - Blood
+  - Grass
+  - Damage
+  - Enemy
+  - WeaponGun
+  - WeaponManager
+  - Weapon
+  - Ammo
+  - Usable
+  - Ladder
+  - Water
+  - VehicleCamera
+  - Fire
+  - PH
+  - Door
+  - Button
+  - AI
+  - Points
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Other
+  - Player
+  - Usable
+  - Weapon
+  - Ammo
+  - MiniMap
+  - Damage
+  - CustomizeUI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: One
+    uniqueID: 4212420173
+    locked: 0
