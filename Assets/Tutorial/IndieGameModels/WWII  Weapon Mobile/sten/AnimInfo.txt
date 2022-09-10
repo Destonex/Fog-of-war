@@ -1,0 +1,10 @@
+Frame rate: PAL 25
+------------------
+
+idle:      0 to 49
+walk:     50 to 79
+run:      81 to 100
+fire1:   102 to 122
+fire2:   123 to 142
+reload1: 143 to 190
+reload2: 191 to 248

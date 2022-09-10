@@ -1,0 +1,9 @@
+Frame rate: PAL 25
+------------------
+
+unlock:    0 to 19
+idle:     20 to 69
+walk:     70 to 98
+fire:     99 to 168
+
+
